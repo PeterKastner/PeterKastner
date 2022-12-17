@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeterKastner
 - 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Android and Kotlin
+- 🌱 I’m currently learning Kotlin, Android and Multiplatform development
 - 💞️ I’m looking to collaborate on Software Testing
 - 📫 How to reach me ...
 
